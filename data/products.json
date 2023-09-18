@@ -1,0 +1,72 @@
+[
+  {
+      "id": 1,
+      "name": "Smartphone",
+      "price": 699.99,
+      "description": "A high-end smartphone with the latest technology.",
+      "category": "Electronics"
+  },
+  {
+      "id": 2,
+      "name": "Laptop",
+      "price": 1099.99,
+      "description": "A powerful laptop for work and entertainment.",
+      "category": "Electronics"
+  },
+  {
+      "id": 3,
+      "name": "Coffee Maker",
+      "price": 79.99,
+      "description": "A programmable coffee maker for your morning brew.",
+      "category": "Kitchen Appliances"
+  },
+  {
+      "id": 4,
+      "name": "Running Shoes",
+      "price": 89.99,
+      "description": "High-performance running shoes for athletes.",
+      "category": "Footwear"
+  },
+  {
+      "id": 5,
+      "name": "Digital Camera",
+      "price": 499.99,
+      "description": "Capture stunning photos and videos with this camera.",
+      "category": "Electronics"
+  },
+  {
+      "id": 6,
+      "name": "Backpack",
+      "price": 49.99,
+      "description": "A durable and spacious backpack for daily use.",
+      "category": "Bags & Luggage"
+  },
+  {
+      "id": 7,
+      "name": "Gaming Console",
+      "price": 399.99,
+      "description": "Enjoy immersive gaming experiences with this console.",
+      "category": "Electronics"
+  },
+  {
+      "id": 8,
+      "name": "Fitness Tracker",
+      "price": 69.99,
+      "description": "Monitor your health and fitness goals with this tracker.",
+      "category": "Fitness & Health"
+  },
+  {
+      "id": 9,
+      "name": "HD TV",
+      "price": 799.99,
+      "description": "Experience crystal-clear visuals on this high-definition TV.",
+      "category": "Electronics"
+  },
+  {
+      "id": 10,
+      "name": "Toaster Oven",
+      "price": 49.99,
+      "description": "A versatile toaster oven for cooking and baking.",
+      "category": "Kitchen Appliances"
+  }
+]
