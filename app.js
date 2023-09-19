@@ -17,6 +17,10 @@ app.use("/orders", ordersRouter);
 app.use("/users", usersRouter);
 app.use("/products", productsRouter);
 
+app.get("/health", (req, res) => {
+  res.sendStatus(200); // Send a 200 OK response
+});
+
 app.listen(port, () => {
   console.log(`Server is running on port ${port}`);
 });
