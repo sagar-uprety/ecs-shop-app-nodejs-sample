@@ -47,7 +47,7 @@ router.post("/create", async (req, res) => {
       productId,
       productName,
       price: parseFloat(price),
-      orderDate: new Date().toISOString,
+      orderDate: new Date().toISOString(),
       paymentMethod: getRandomPaymentMethod(),
     };
 
